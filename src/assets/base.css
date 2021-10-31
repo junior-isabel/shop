@@ -1,0 +1,21 @@
+:root {
+  --gossamer-500: #111;
+  --gossamer-600: #444;
+  --primary-2: #444;
+  --primary: #473bf0;
+  --secondary: #000000;
+  --secondary-2: #111;
+  --text-base: #77798c;
+  --text-heading: #0d1136;
+  --text-primary: #000;
+  --gossamer-50: #ecebfc;
+  --gossamer-100: #dedcfc;
+  --gossamer-200: #d0cdfa;
+  --gossamer-300: #bdb9fa;
+  --gossamer-400: #a6a0fa;
+  --gossamer-700: #6257f2;
+  --gossamer-800: #574ced;
+  --gossamer-900: #473bf0;
+  --gray-300: #222;
+
+}
